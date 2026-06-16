@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# RoboFont / editor autosaves
+*-AutoSaved.ufo/
+*-AutoSaved-AutoSaved.ufo/
+* copy.ufo/
+*~
+
+# Build output
+build/
+*.otf
+*.ttf
+*.woff
+*.woff2
+
+# Python / tooling
+__pycache__/
+.venv/
+venv/
